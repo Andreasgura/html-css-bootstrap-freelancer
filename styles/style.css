@@ -18,3 +18,13 @@ header,
 .top-footer {
     background-color: var(--color-top-footer);
 }
+
+.ms-container {
+    width: 85%;
+    margin: 0 auto;
+}
+#contact-me textarea,
+#contact-me input {
+    border: 0px;
+    border-bottom: 1px solid grey;
+}
