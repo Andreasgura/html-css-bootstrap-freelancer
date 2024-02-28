@@ -23,8 +23,11 @@ header,
     width: 85%;
     margin: 0 auto;
 }
-#contact-me textarea,
-#contact-me input {
+#contact textarea,
+#contact input {
     border: 0px;
     border-bottom: 1px solid grey;
+}
+header {
+    color: white !important;
 }
