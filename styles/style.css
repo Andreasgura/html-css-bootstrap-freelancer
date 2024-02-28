@@ -23,6 +23,10 @@ header,
     width: 85%;
     margin: 0 auto;
 }
+.ms-container-s {
+    width: 60%;
+    margin: 0 auto;
+}
 #contact textarea,
 #contact input {
     border: 0px;
